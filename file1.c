@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("this is initial file 1");
+    printf("this is updated file 1");
     return 0;
 }
